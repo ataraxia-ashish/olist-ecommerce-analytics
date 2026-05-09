@@ -1,0 +1,34 @@
+# ─── Node / Vite ───────────────────────────────────────────
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.local
+
+# ─── Environment & secrets ─────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ─── OS junk ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Editor ────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.suo
+*.user
+
+# ─── Python / Jupyter ──────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.jupyter/
+
+# ─── Large raw data files (excluded — see Kaggle link in README) ───
+data/olist_clean*.csv
+data/olist_rfm*.csv
+*.csv.gz

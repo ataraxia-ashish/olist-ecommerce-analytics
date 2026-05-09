@@ -1,0 +1,142 @@
+{
+  "monthly_revenue": [
+    {
+      "month": "2017-01",
+      "revenue": 120000
+    },
+    {
+      "month": "2017-02",
+      "revenue": 240000
+    },
+    {
+      "month": "2017-03",
+      "revenue": 380000
+    },
+    {
+      "month": "2017-04",
+      "revenue": 410000
+    },
+    {
+      "month": "2017-05",
+      "revenue": 520000
+    },
+    {
+      "month": "2017-06",
+      "revenue": 510000
+    },
+    {
+      "month": "2017-07",
+      "revenue": 590000
+    },
+    {
+      "month": "2017-08",
+      "revenue": 670000
+    },
+    {
+      "month": "2017-09",
+      "revenue": 720000
+    },
+    {
+      "month": "2017-10",
+      "revenue": 760000
+    },
+    {
+      "month": "2017-11",
+      "revenue": 1100000
+    },
+    {
+      "month": "2017-12",
+      "revenue": 1210000
+    },
+    {
+      "month": "2018-01",
+      "revenue": 1120000
+    },
+    {
+      "month": "2018-02",
+      "revenue": 980000
+    },
+    {
+      "month": "2018-03",
+      "revenue": 1150000
+    },
+    {
+      "month": "2018-04",
+      "revenue": 1180000
+    },
+    {
+      "month": "2018-05",
+      "revenue": 1250000
+    },
+    {
+      "month": "2018-06",
+      "revenue": 1050000
+    },
+    {
+      "month": "2018-07",
+      "revenue": 1080000
+    },
+    {
+      "month": "2018-08",
+      "revenue": 1210000
+    },
+    {
+      "month": "2018-09",
+      "revenue": 140000
+    },
+    {
+      "month": "2018-10",
+      "revenue": 0
+    },
+    {
+      "month": "2018-11",
+      "revenue": 0
+    },
+    {
+      "month": "2018-12",
+      "revenue": 0
+    }
+  ],
+  "cat_revenue": [
+    {
+      "category": "health_beauty",
+      "revenue": 1250000
+    },
+    {
+      "category": "watches_gifts",
+      "revenue": 1200000
+    },
+    {
+      "category": "bed_bath_table",
+      "revenue": 1050000
+    },
+    {
+      "category": "sports_leisure",
+      "revenue": 980000
+    },
+    {
+      "category": "computers_accessories",
+      "revenue": 910000
+    },
+    {
+      "category": "furniture_decor",
+      "revenue": 720000
+    },
+    {
+      "category": "housewares",
+      "revenue": 650000
+    },
+    {
+      "category": "auto",
+      "revenue": 600000
+    },
+    {
+      "category": "toys",
+      "revenue": 480000
+    },
+    {
+      "category": "telephony",
+      "revenue": 320000
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "kpis": {
+    "rev_2017": 7240000,
+    "rev_2018": 11560000,
+    "late_rate": 6.5,
+    "credit_pct": 74.2,
+    "avg_installments": 2.8,
+    "peak_hour": "16:00",
+    "peak_day": "Tuesday",
+    "weekend_pct": 21.4,
+    "avg_freight_ratio": 15.3,
+    "champions": 12500,
+    "at_risk": 8400,
+    "cant_lose": 3200,
+    "lost": 15600
+  }
+}

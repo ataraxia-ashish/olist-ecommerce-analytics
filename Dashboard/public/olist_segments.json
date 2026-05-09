@@ -1,0 +1,60 @@
+{
+  "seg_summary": [
+    {
+      "Segment": "Champions",
+      "customers": 12500,
+      "avg_recency": 15,
+      "avg_frequency": 4.2,
+      "avg_monetary": 450
+    },
+    {
+      "Segment": "Loyal Customers",
+      "customers": 18000,
+      "avg_recency": 30,
+      "avg_frequency": 3.1,
+      "avg_monetary": 220
+    },
+    {
+      "Segment": "Potential Loyalist",
+      "customers": 15000,
+      "avg_recency": 45,
+      "avg_frequency": 1.5,
+      "avg_monetary": 120
+    },
+    {
+      "Segment": "Recent Customers",
+      "customers": 8500,
+      "avg_recency": 10,
+      "avg_frequency": 1.0,
+      "avg_monetary": 95
+    },
+    {
+      "Segment": "Promising",
+      "customers": 6200,
+      "avg_recency": 25,
+      "avg_frequency": 1.1,
+      "avg_monetary": 80
+    },
+    {
+      "Segment": "At Risk",
+      "customers": 8400,
+      "avg_recency": 150,
+      "avg_frequency": 2.5,
+      "avg_monetary": 210
+    },
+    {
+      "Segment": "Cant Lose",
+      "customers": 3200,
+      "avg_recency": 200,
+      "avg_frequency": 4.5,
+      "avg_monetary": 580
+    },
+    {
+      "Segment": "Lost",
+      "customers": 15600,
+      "avg_recency": 300,
+      "avg_frequency": 1.1,
+      "avg_monetary": 65
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "late_by_region": [
+    {
+      "Region": "North",
+      "Late %": 12.5
+    },
+    {
+      "Region": "Northeast",
+      "Late %": 10.2
+    },
+    {
+      "Region": "Midwest",
+      "Late %": 7.8
+    },
+    {
+      "Region": "Southeast",
+      "Late %": 5.4
+    },
+    {
+      "Region": "South",
+      "Late %": 6.1
+    },
+    {
+      "Region": "Unknown",
+      "Late %": 8.0
+    }
+  ]
+}
