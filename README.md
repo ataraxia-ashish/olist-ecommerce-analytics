@@ -2,7 +2,7 @@
 
 An interactive, multi-tab analytics dashboard built on the [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) from Kaggle. Transforms 100K+ orders into executive-ready insights across revenue, delivery, customer segments, and payment behaviour.
 
-![Dashboard Preview](./assets/preview.png)
+![Dashboard Preview](./Dashboard/src/assets/preview.png)
 
 > **Live Demo:** [olist-analytics-ashish.netlify.app](https://olist-analytics-ashish.netlify.app/)
 ---
