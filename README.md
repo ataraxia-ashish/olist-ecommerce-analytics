@@ -5,8 +5,7 @@ An interactive, multi-tab analytics dashboard built on the [Olist Brazilian E-Co
 <!-- Replace with actual screenshot after deployment -->
 <!-- ![Dashboard Preview](./assets/preview.png) -->
 
-> **Live Demo:** _Coming soon_
-
+> **Live Demo:** [olist-analytics-ashish.netlify.app](https://olist-analytics-ashish.netlify.app/)
 ---
 
 ## Features
